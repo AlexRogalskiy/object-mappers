@@ -181,7 +181,7 @@
         <junit-platform.version>1.7.0</junit-platform.version>
         <mockito-junit-jupiter.version>3.6.28</mockito-junit-jupiter.version>
         <mockito.version>3.6.28</mockito.version>
-        <assertj.version>3.18.1</assertj.version>
+        <assertj.version>3.20.2</assertj.version>
         <hamcrest.version>2.2</hamcrest.version>
 
         <jacoco-check.skip>false</jacoco-check.skip>
