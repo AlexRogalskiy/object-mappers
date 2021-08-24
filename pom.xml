@@ -252,7 +252,7 @@
         <maven-flatten-plugin.version>1.2.5</maven-flatten-plugin.version>
         <maven-javadoc-plugin.version>3.2.0</maven-javadoc-plugin.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-        <maven-pitest-plugin.version>1.5.2</maven-pitest-plugin.version>
+        <maven-pitest-plugin.version>1.6.5</maven-pitest-plugin.version>
         <maven-pitest-junit5-plugin.version>0.12</maven-pitest-junit5-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <maven-failsafe-plugin.version>3.0.0-M3</maven-failsafe-plugin.version>
