@@ -24,7 +24,7 @@
         <lombok-mapstruct.version>0.1.0</lombok-mapstruct.version>
         <mapstruct.version>1.4.1.Final</mapstruct.version>
         <selma.version>1.0</selma.version>
-        <jmh.version>1.26</jmh.version>
+        <jmh.version>1.27</jmh.version>
 
         <objectmappers.version>1.0.0</objectmappers.version>
     </properties>
