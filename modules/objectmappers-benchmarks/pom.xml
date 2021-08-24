@@ -21,7 +21,7 @@
         <license.licenseResolver>${project.baseUri}/../../license</license.licenseResolver>
         <uberjar.name>benchmarks</uberjar.name>
 
-        <lombok-mapstruct.version>0.1.0</lombok-mapstruct.version>
+        <lombok-mapstruct.version>0.2.0</lombok-mapstruct.version>
         <mapstruct.version>1.4.1.Final</mapstruct.version>
         <selma.version>1.0</selma.version>
         <jmh.version>1.26</jmh.version>
