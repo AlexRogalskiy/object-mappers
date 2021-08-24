@@ -255,7 +255,7 @@
         <maven-pitest-plugin.version>1.5.2</maven-pitest-plugin.version>
         <maven-pitest-junit5-plugin.version>0.12</maven-pitest-junit5-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
-        <maven-failsafe-plugin.version>3.0.0-M3</maven-failsafe-plugin.version>
+        <maven-failsafe-plugin.version>3.0.0-M5</maven-failsafe-plugin.version>
         <maven-surefire-report-plugin.version>3.0.0-M5</maven-surefire-report-plugin.version>
         <maven-cobertura-plugin.version>2.7</maven-cobertura-plugin.version>
         <maven-jacoco-plugin.version>0.8.6</maven-jacoco-plugin.version>
