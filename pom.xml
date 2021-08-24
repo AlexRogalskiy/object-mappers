@@ -2222,7 +2222,7 @@
             <id>allure-reports</id>
             <properties>
                 <allure-report.version>2.13.1</allure-report.version>
-                <allure.version>2.13.7</allure.version>
+                <allure.version>2.13.8</allure.version>
             </properties>
             <build>
                 <pluginManagement>
