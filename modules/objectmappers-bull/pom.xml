@@ -20,7 +20,7 @@
     <properties>
         <license.licenseResolver>${project.baseUri}/../../license</license.licenseResolver>
 
-        <bull.version>1.7.4</bull.version>
+        <bull.version>1.7.7</bull.version>
 
         <objectmappers.version>1.0.0</objectmappers.version>
     </properties>
