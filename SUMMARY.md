@@ -41,4 +41,3 @@
     * [Cloning content](docs/user-guide/how-to-move-content.md)
   * [links]
     * [Resources](docs/links/info.md)
-

@@ -31,4 +31,3 @@ MapStruct is a complete Java Bean Mapper framework. Based on Annotation Processo
 * [**Java MapStruct FAQ**](https://progi.pro/mapstruct-t16374)
 * [**Java MapStruct Advanced**](https://stackabuse.com/guide-to-mapstruct-in-java-advanced-mapping-library/)
 * [**Java MapStruct Alternatives**](https://java.libhunt.com/mapstruct-alternatives)
-

@@ -25,4 +25,3 @@ Java Bean Mapper is part of the Apache Commons BeanUtils library from the Apache
 * [**Official Site**](http://beanmapper.io/)
 * [**Official Repository**](https://github.com/42BV/beanmapper)
 * [**Java BeanMapper Alternatives**](https://java.libhunt.com/beanmapper-alternatives)
-

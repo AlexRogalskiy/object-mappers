@@ -21,4 +21,3 @@ The Java Bean manual mapper is not an automatically generated convesion mechanis
 ## ![image info](../../images/icons8-source-64.png) _Use cases_
 
 ## ![image info](../../images/icons8-inspect-code-64.png) _Links_
-

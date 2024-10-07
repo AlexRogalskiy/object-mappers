@@ -44,4 +44,3 @@ Vagrant.configure("2") do |config|
   config.vm.provision :shell, path: "./vagrant-provision/nginx.sh", args: [nginx_root, vagrant_root, host_name]
   config.vm.provision :shell, path: "./vagrant-provision/postgres.sh"
 end
-

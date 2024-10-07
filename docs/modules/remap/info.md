@@ -23,4 +23,3 @@ Uses bytecode generation strategy based on Cglib library to provide end-to-end o
 
 * [**Official Repository**](https://github.com/remondis-it/remap)
 * [**Java ReMap Guide**](https://reflectoring.io/autotmatic-refactoring-safe-java-mapping/)
-

@@ -17,9 +17,9 @@ jobs:
         issue-message: 'Thank you for creating an issue; one of our team members will get back to you soon!'
         pr-message: >-
           Holy code! Thank you creating a PR.
-          
+
           Thermal is built by awesome poeple like you. Let us say "thanks" by inviting you Thermal Discord Server https://discord.gg/66xy7nk.
-          
+
           If there's anything we can do to help, please don't hestitate to reach out to us on tweet at @gitthermal and Discord.
-          
+
           Thanks again!

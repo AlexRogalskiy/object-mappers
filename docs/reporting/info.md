@@ -78,4 +78,3 @@ Add any other references and links which are relevant for this issue.
 ## _Potential Solution_
 
 If this is a bug report this might include the lines of code that you have identified as causing the bug or in case of an enhancement suggestion references to other projects where this enhancement already exists.
-

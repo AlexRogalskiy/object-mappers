@@ -57,10 +57,10 @@ docs/
         smooks/
             info.md
     user-guide/
-        changelog.md # Changelog page 
-        code_of_conduct.md # Code of conduct page 
-        code_owners.md # Code owners page 
-        dependency.md # Dependency page 
+        changelog.md # Changelog page
+        code_of_conduct.md # Code of conduct page
+        code_owners.md # Code owners page
+        dependency.md # Dependency page
         description.md # Description page
         faq.md # FAQ page
         getting-started.md # Getting started page
@@ -79,4 +79,3 @@ docs/
     links/
         info.md # Contribution page
 ```
-

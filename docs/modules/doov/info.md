@@ -21,4 +21,3 @@ Uses annotations, code generation and a type safe DSL to make domain model valid
 
 * [**Official Site**](https://doov.org/)
 * [**Official Repository**](https://github.com/doov-org/doov)
-

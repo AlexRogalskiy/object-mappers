@@ -61,4 +61,3 @@ See the [Upgrading guide](https://github.com/AlexRogalsky/object-mappers-playgro
 2. Can you customize the styling or theme? **A**: See [Customizing](https://github.com/AlexRogalskiy/object-mappers-playground#customizing-fastpages)
 
 See the [FAQ](https://github.com/AlexRogalskiy/object-mappers-playground#faq) for frequently asked questions.
-

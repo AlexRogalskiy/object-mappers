@@ -255,7 +255,7 @@ with community support please contact with us if you have some question or propo
 ## 🚨 _Visitor stats_
 
 ![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/object-mappers-playground)
-<!-- 
+<!--
 [![Active Contributors](https://api.gitential.com/accounts/2318/projects/4210/badges/active-contributors.svg)](https://app.gitential.com/accounts/2318/projects/4210)
 -->
 
