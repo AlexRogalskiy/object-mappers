@@ -36,4 +36,3 @@ Uses the bytecode generation mechanism based on Javassist library to provide end
 * [**Java JMapper Guide**](https://www.baeldung.com/jmapper)
 * [**Java JMapper Article**](https://www.codeflow.site/ru/article/jmapper)
 * [**Java JMapper Alternatives**](https://java.libhunt.com/jmapper-core-alternatives)
-

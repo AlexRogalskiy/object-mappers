@@ -23,4 +23,3 @@ The mapping mechanism can be implemented in Groovy DSL that provides various pre
 * [**Official Site**](http://nomin.sourceforge.net/)
 * [**Official Repository**](https://github.com/dobrynya/nomin)
 * [**Java Nomin Mapping Article**](https://www.beyondjava.net/nomin-mapping-java-object-without-the-pain)
-

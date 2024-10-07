@@ -24,4 +24,3 @@ Simple and easy-to-use framework for various data mappings \(XML, Java etc.\) wi
 * [**Introduction to Smooks**](https://www.baeldung.com/smooks)
 * [**XML mappings with Smooks**](https://dzone.com/articles/mapping-xml-to-java-using-smooks-mediator)
 * [**Java Selma Alternatives**](https://java.libhunt.com/smooks-alternatives)
-

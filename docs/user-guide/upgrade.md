@@ -14,7 +14,7 @@ There are two ways to upgrade. One is an automated way that assumes you have mad
 
 ## _Automated Upgrade_
 
-* This method is appropriate for those who have not customized the HTML of their site.  
+* This method is appropriate for those who have not customized the HTML of their site.
 * **If you are unsure, try the Automated approach and review which files are changed in the automated PR** to see if this appropriate for you.
 
 ### Step 1: Open An Issue With The Upgrade Template.
@@ -37,7 +37,7 @@ There are two ways to upgrade. One is an automated way that assumes you have mad
 
 ### Step 4: Review & Merge PR
 
-* Ensure that you read the instructions in the PR carefully.  Furthermore, carefully review which files will be changed to determine if this interferes with any customizations you have mades to your site.  When ready, select `Merge pull request`.  
+* Ensure that you read the instructions in the PR carefully.  Furthermore, carefully review which files will be changed to determine if this interferes with any customizations you have mades to your site.  When ready, select `Merge pull request`.
 * If the PR is making undesired changes to files you can use the manual upgrade approach instead.
 
 ## _Manual Upgrade_
@@ -48,7 +48,6 @@ Create a new repo with the current project by following the [setup instructions]
 
 ### Advanced
 
-* This method is appropriate for those who made customizations to the HTML.  
+* This method is appropriate for those who made customizations to the HTML.
 * You must proceed with caution, as new versions may not be compatible with your customizations.
 * Be careful to not duplicate files, as files have been reorganized several times.
-

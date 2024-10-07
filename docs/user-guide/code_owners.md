@@ -10,4 +10,3 @@
 ## _Ownership_
 
 * [https://github.com/AlexRogalskiy/](https://github.com/AlexRogalskiy/)
-

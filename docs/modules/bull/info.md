@@ -17,4 +17,3 @@
 
 * [**Official Site**](https://hotelsdotcom.github.io/bull/)
 * [**Official Repository**](https://github.com/HotelsDotCom/bull)
-

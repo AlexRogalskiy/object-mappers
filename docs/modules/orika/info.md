@@ -28,4 +28,3 @@ Orika mapping framework is similar to Dozer and can be considered as a replaceme
 * [**Java Orika CodeFlow**](https://www.codeflow.site/ru/article/orika-mapping)
 * [**Java Orika FAQ**](https://progi.pro/orika-t13155)
 * [**Java Orika Alternatives**](https://java.libhunt.com/orika-mapper-alternatives)
-

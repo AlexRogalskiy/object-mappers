@@ -128,4 +128,3 @@ always = false # default: false
 # (configured via `merge.automerge_label`). When disable, Kodiak will update any
 # PR. This option only applies when `update.always = true`.
 require_automerge_label = true # default: true
-

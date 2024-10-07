@@ -1,5 +1,5 @@
 on: pull_request
-name: changelog 
+name: changelog
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -22,7 +22,7 @@ jobs:
             repo: context.repo.repo,
             pull_number: context.payload.pull_request.number,
           });
-          let changeLogPresent = false; 
+          let changeLogPresent = false;
           for (const file of files.data) {
             if (file.filename === 'CHANGELOG.md') {
               changeLogPresent = true;

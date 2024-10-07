@@ -23,4 +23,3 @@ The main idea is to prohibit magic conversion and just automate all mappings wit
 * [**Official Site**](http://www.selma-java.org/)
 * [**Official Repository**](https://github.com/xebia-france/selma)
 * [**Java Selma Alternatives**](https://java.libhunt.com/selma-alternatives)
-

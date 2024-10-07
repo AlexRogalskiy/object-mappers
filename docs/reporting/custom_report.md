@@ -17,4 +17,3 @@ assignees: ''
 **Additional labels** Add any other context labels about the issue.
 
 **Assignees** Choose responsible executives to monitor and progress with the issue.
-

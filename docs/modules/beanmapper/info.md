@@ -21,4 +21,3 @@ Java Bean Mapper supports limited mapping operations that, include mostly conver
 * [**Official Site**](http://beanmapper.io/)
 * [**Official Repository**](https://github.com/42BV/beanmapper)
 * [**Java BeanMapper Alternatives**](https://java.libhunt.com/beanmapper-alternatives)
-

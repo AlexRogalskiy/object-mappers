@@ -24,4 +24,3 @@ Describe the changes as in many relevant details as possible. If this is a enhan
 ## _References_
 
 Add any other references and links which are relevant for this issue.
-

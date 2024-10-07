@@ -15,4 +15,3 @@ ObjectMappers playground dependency can be simply acquired by adding the followi
 ```groovy
 compile 'io.nullables.api.playground:objectmappers-all:1.0.0'
 ```
-

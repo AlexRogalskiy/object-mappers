@@ -179,4 +179,3 @@ Every significant change is documented in the [changelog](https://github.com/Ale
 ## _Credits_
 
 Thanks for the inspirations and attributions to GitHub's [Open Source Guides](https://opensource.guide) and various contribution guides of large open source projects like [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [React](https://facebook.github.io/react/contributing/how-to-contribute.html) and [Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html).
-
